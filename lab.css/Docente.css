@@ -1,0 +1,21 @@
+#contenedor {
+
+	width: 900px;
+	margin: 0 auto;
+}
+
+#arriba{
+
+	width: 800px;
+	height: 100px;
+	background: #FFFF00;
+}
+h1{
+	color: blue;
+}
+#cuerpo
+{
+	width: 800px;
+	height: 400px;
+	background: #FFFFE0;
+}
